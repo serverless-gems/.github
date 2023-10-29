@@ -2,6 +2,6 @@
 
 ### Select your serverless platform:
 
-- [Netlify](https://serverless-gems.netlify.app/)
-- [Cloudflare Pages](https://serverless-gems.pages.dev/)
-- [Vercel](https://serverless-gems.vercel.app/)
+- [Netlify](https://netlify.serverless-gems.dev/)
+- [Cloudflare Pages](https://cloudflare.serverless-gems.dev/)
+- [Vercel](https://vercel.serverless-gems.dev/)
